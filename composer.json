@@ -1,0 +1,25 @@
+{
+  "name": "logs12/yii2-callback",
+  "description": "Callback",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "yii 2", "callback"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Vasiliy Samargin",
+      "email": "vasiliys492@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/logs12/yii2-callback/issues?state=open",
+    "source": "https://github.com/logs12/yii2-callback"
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "logs12\\callback\\": ""
+    }
+  }
+}
