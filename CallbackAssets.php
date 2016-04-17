@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class CallbackAssets extends AssetBundle
 {
-    public $sourcePath = '@app/modules/callback/assets';
+    public $sourcePath = '@logs12/callback/assets';
     public $css = [
         'css/callbackPopup.css'
     ];

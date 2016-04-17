@@ -7,7 +7,7 @@
 namespace logs12\callback\widgets;
 
 use yii\bootstrap\Widget;
-use app\modules\callback\models\CallbackForm;
+use logs12\callback\models\CallbackForm;
 
 class Callback extends Widget
 {
